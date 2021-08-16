@@ -1,2 +1,2 @@
 # rubik-s-cube-semantic-segmentation
-プリプロ研究用
+プリプロ研究用　セマンティックセグメンテーション
